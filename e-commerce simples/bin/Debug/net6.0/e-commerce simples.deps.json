@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "e-commerce simples/1.0.0": {
+        "runtime": {
+          "e-commerce simples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e-commerce simples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
